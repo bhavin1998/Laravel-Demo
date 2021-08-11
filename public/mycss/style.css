@@ -1,0 +1,44 @@
+#createpostform{
+    margin-right: auto;
+}
+
+.posttitle
+{
+    width: 420px;
+}
+
+.tablecontent{
+    color: white;
+    text-align: center;
+}
+
+.tablehead{
+    text-align: center;
+}
+
+
+.editform
+{
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    margin: 0 AUTO;
+    MAX-WIDTH: 100%;
+    justify-content: center;
+    align-items: center;
+    top: 15px;
+}
+
+.viewpost{
+    text-align: center;
+}
+
+.searchbox{
+    margin-left: auto;
+    display: block;
+}
+
+option.roleoption
+{
+    color: black;
+}
